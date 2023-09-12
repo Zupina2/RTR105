@@ -1,0 +1,235 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  whoami
+    4  who
+    5  pwd
+    6  ls
+    7  clear
+    8  ls
+    9  ist
+   10  list
+   11  man ls
+   12  ls -lt
+   13  man ls
+   14  ls -ls Documents/
+   15  ls /home
+   16  tree
+   17  cd music
+   18  cd /music/
+   19  cd Music/
+   20  ls
+   21  pwd
+   22  cd.
+   23  cd .
+   24  history 
+   25  cd ..
+   26  pwd
+   27  ls Music/
+   28  pwd
+   29  cd Music/
+   30  cd ..
+   31  pwd
+   32  ls
+   33  pwd
+   34  /home cd..
+   35  /home cd ..
+   36  cd root
+   37  pwd
+   38  /$ cd root
+   39  pwd
+   40  cd..
+   41  cd home
+   42  cd home?
+   43  cd home/
+   44  pwd
+   45  cd..
+   46  leave
+   47  cd ./home/
+   48  pwd
+   49  cd /
+   50  pwd
+   51  cd /home/user
+   52  pwd
+   53  cd /
+   54  pwd
+   55  mkdir ABC
+   56  cd /home/user
+   57  pwf
+   58  pwd
+   59  mkdir ABC
+   60  ls 
+   61  ls -ls ABC
+   62  ls -lta ABC
+   63  cd ABC
+   64  pwd
+   65  ls -lt
+   66  cd..
+   67  ABC cd.
+   68  ABC cd..
+   69  rmdir ABC
+   70  cd /
+   71  rmdir ABC
+   72  rmdir /ABC
+   73  remove /ABc
+   74  rmdir ./ABC/
+   75  touch abc.txt
+   76  cd /
+   77  touch abc.txt
+   78  touch aac.txt
+   79  create abc.txt
+   80  crt abc.txt
+   81  clear
+   82  touch abc.txt
+   83  echo la-la-la-la!
+   84  cat abc.txt
+   85  touch amg.txt
+   86  touch ffs.txt
+   87  ls -lt ffs.txt
+   88  excho 6789 > ffs.txt
+   89  echo 6789 > ffs.txt
+   90  echo 6789 >> ffs.txt
+   91  hexfump -C ffs.txt
+   92  hexdump -C ffs.txt
+   93  cd ABC
+   94  cd/
+   95  cd .
+   96  cd..
+   97  cd /
+   98  rmdir ABC
+   99  rmdir /ABC
+  100  man echo
+  101  e"12345"
+  102  echo "1245/n6789"
+  103  echo -e "12345/n/t6789"
+  104  echo -e "12345\n\t6789"
+  105  echo -e "12345\n\t6789" > ffs.txt
+  106  echo -e "12345\r6789" > ffs.txt
+  107  cd /
+  108  echo -e "12345\r6789" > ffs.txt
+  109  ls -lt
+  110  cd ~/
+  111  ls -lt
+  112  mkdir GMO
+  113  pwd
+  114  ls
+  115  cp ffs.txt GMO/
+  116  pwd
+  117  ls -lt CDE/
+  118  ls -lt GMO/
+  119  ls
+  120  echo -e "12345\r6789" > ffs.txt
+  121  mv GMO/ffs.txt GMO/ffs1.txt
+  122  ls -lt GMO
+  123  history > history_20230912_Class_02.txt
+  124  clear
+  125  whoami
+  126  cd Documents/
+  127  ls
+  128  ls -lt
+  129  c..
+  130  cd Home/
+  131  ..
+  132  cd..
+  133  Documents cd..
+  134  list
+  135  help
+  136  cd
+  137  cd ./home/
+  138  cd ./home
+  139  cd./home
+  140  cd/home
+  141  cd /home
+  142  PWD
+  143  pwd
+  144  /cd user
+  145  cd /user
+  146  cd /user/
+  147  cd /home/user
+  148  pwd
+  149  cd ~home
+  150  cd ~/home
+  151  pwd
+  152  cd ~/
+  153  pwd
+  154  cd ~/
+  155  pwd
+  156  cd~
+  157  cd~home
+  158  cd ~
+  159  cd ~ /home
+  160  cd ~ home
+  161  cd ~/Desktop
+  162  cd ~/User
+  163  cd ~/user
+  164  cd ~/home
+  165  cd ~/
+  166  touch testy2.txt
+  167  lt -ls testy2.txt
+  168  st -lt testy2.txt
+  169  ls -lt testy2.txt
+  170  echo 123456
+  171  echo 123456 > testy2.txt
+  172  hexdump testy2.txt
+  173  hexdump -c testy2.txt
+  174  hexdump -C testy2.txt
+  175  echo -e "12345\n\t6789" > testy2.txt
+  176  ls -lt testy2.txt
+  177  hexdump -c testy2.txt
+  178  mv Documents/testy2.txt Documents/testy1.txt
+  179  mv Desktop/testy2.txt Desktop/testy1.txt
+  180  mv Desktop/testy2.txt
+  181  cd testy2.txt
+  182  move
+  183  mv
+  184  mv --help
+  185  ls -lt test2.txt
+  186  ls -lt testy2.txt
+  187  history
+  188  mv Desktop/testy2.txt Desktop/testy1.txt
+  189  pwd
+  190  ls Desktop/
+  191  ls Documents/
+  192  ls
+  193  mv ./testy2.txt Desktop/
+  194  ls
+  195  ls Desktop/
+  196  mv Desktop/testy2.txt Documents/
+  197  ls Documents/
+  198  mv Documents/testy2.txt Documents/testy1.txt
+  199  ls Documents/
+  200  hexdump c- testy1.txt
+  201  hexdump -e testy1.txt
+  202  hexdump -C testy1.txt
+  203  cd Documents/
+  204  hexdump -C testy1.txt
+  205  hexdump -c testy1.txt
+  206  cd ~home
+  207  cd ~/home
+  208  cd ~
+  209  cd Documents/
+  210  c..
+  211  cd ~
+  212  rm testy1.txt
+  213  rm Documents/testy1.txt
+  214  ls
+  215  ls Documents/
+  216  clear
+  217  whoami
+  218  pwd
+  219  ls
+  220  whereis whoami
+  221  ls - l /usr/
+  222  ls - l /usr/share/man/man1/whoami.1.gz
+  223  ls - l /usr/share/man/man1
+  224  whereis pwd
+  225  echo $PATH
+  226  nano
+  227  NANO
+  228  nano
+  229  ls -lt
+  230  cat mans\ pirmais\ shell\ skripts.sh 
+  231  chmod 754 mans\ pirmais\ shell\ skripts.sh 
+  232  ls -lt
+  233  pwd
+  234  cd /root
+  235  history > history_kaizveidotkomandu202309012
