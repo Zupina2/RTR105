@@ -1,0 +1,124 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  whoami
+    4  who
+    5  pwd
+    6  ls
+    7  clear
+    8  ls
+    9  ist
+   10  list
+   11  man ls
+   12  ls -lt
+   13  man ls
+   14  ls -ls Documents/
+   15  ls /home
+   16  tree
+   17  cd music
+   18  cd /music/
+   19  cd Music/
+   20  ls
+   21  pwd
+   22  cd.
+   23  cd .
+   24  history 
+   25  cd ..
+   26  pwd
+   27  ls Music/
+   28  pwd
+   29  cd Music/
+   30  cd ..
+   31  pwd
+   32  ls
+   33  pwd
+   34  /home cd..
+   35  /home cd ..
+   36  cd root
+   37  pwd
+   38  /$ cd root
+   39  pwd
+   40  cd..
+   41  cd home
+   42  cd home?
+   43  cd home/
+   44  pwd
+   45  cd..
+   46  leave
+   47  cd ./home/
+   48  pwd
+   49  cd /
+   50  pwd
+   51  cd /home/user
+   52  pwd
+   53  cd /
+   54  pwd
+   55  mkdir ABC
+   56  cd /home/user
+   57  pwf
+   58  pwd
+   59  mkdir ABC
+   60  ls 
+   61  ls -ls ABC
+   62  ls -lta ABC
+   63  cd ABC
+   64  pwd
+   65  ls -lt
+   66  cd..
+   67  ABC cd.
+   68  ABC cd..
+   69  rmdir ABC
+   70  cd /
+   71  rmdir ABC
+   72  rmdir /ABC
+   73  remove /ABc
+   74  rmdir ./ABC/
+   75  touch abc.txt
+   76  cd /
+   77  touch abc.txt
+   78  touch aac.txt
+   79  create abc.txt
+   80  crt abc.txt
+   81  clear
+   82  touch abc.txt
+   83  echo la-la-la-la!
+   84  cat abc.txt
+   85  touch amg.txt
+   86  touch ffs.txt
+   87  ls -lt ffs.txt
+   88  excho 6789 > ffs.txt
+   89  echo 6789 > ffs.txt
+   90  echo 6789 >> ffs.txt
+   91  hexfump -C ffs.txt
+   92  hexdump -C ffs.txt
+   93  cd ABC
+   94  cd/
+   95  cd .
+   96  cd..
+   97  cd /
+   98  rmdir ABC
+   99  rmdir /ABC
+  100  man echo
+  101* e"12345"
+  102  echo "1245/n6789"
+  103  echo -e "12345/n/t6789"
+  104  echo -e "12345\n\t6789"
+  105  echo -e "12345\n\t6789" > ffs.txt
+  106  echo -e "12345\r6789" > ffs.txt
+  107  cd /
+  108  echo -e "12345\r6789" > ffs.txt
+  109  ls -lt
+  110  cd ~/
+  111  ls -lt
+  112  mkdir GMO
+  113  pwd
+  114  ls
+  115  cp ffs.txt GMO/
+  116  pwd
+  117  ls -lt CDE/
+  118  ls -lt GMO/
+  119  ls
+  120  echo -e "12345\r6789" > ffs.txt
+  121* 
+  122  mv GMO/ffs.txt GMO/ffs1.txt
+  123  ls -lt GMO
+  124  history > history_20230912_Class_02.txt
