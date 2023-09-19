@@ -1,0 +1,39 @@
+1  VirtualBox --startvm XP
+    2  quartus
+    3  whoami
+    4  who
+    5  git help
+    6  man git
+    7  git - - version
+    8  git clone https://github.com/Zupina2/RTR105
+    9  ls - lt
+   10  ls -lt
+   11  cd RTR105/
+   12  CD ~
+   13  cd ~
+   14  rm RTR105
+   15  man rm ./RTR105/
+   16  rmdir RTR105/
+   17  rm -r RTR105/
+   18  Y
+   19  history
+   20  git clone https://github.com/Zupina2/RTR105
+   21  pwd
+   22  ls -lt
+   23  cd ~/RTR105/
+   24  ls -lt
+   25  ls -la
+   26  ls -lt
+   27  cat index
+   28  cat config
+   29  cd ~/RTR105.git/
+   30  cd ~/RTR105/.git
+   31  cat config
+   32  cat
+   33  cd ~/RTR105/.git
+   34  hexdump -C
+   35  cd ~/RTR105/.git
+   36  cd..
+   37  cd . .
+   38  cd ..
+   39  history
