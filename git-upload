@@ -1,6 +1,6 @@
 #!/bin/bash
 git add .
-git config --globasl user.name Zupina2
+git config --global user.name Zupina2
 git config --global user.email Matiss-Ricards.Melngailis@edu.rtu.lv
 git commit -m "Class_4a"
 git push origin main
