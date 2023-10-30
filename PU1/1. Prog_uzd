@@ -1,0 +1,10 @@
+#!/bin/bash
+# Ievada nummuru 1. un 2.
+        read -p "Ievadiet 1.Nr (): " num1
+        read -p "Ievadiet 2.Nr (): " num2
+
+# reizinasana
+        result=$((num1 * num2))
+
+# izvada rezultatu
+        echo "JUSU REZULTATS IR: $result"
